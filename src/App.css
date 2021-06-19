@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   font-family: 'PT Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 
 html{
@@ -112,6 +113,7 @@ html{
     padding-top: 0%;
     padding-bottom: 0%;
    }
+   
 }
 
 

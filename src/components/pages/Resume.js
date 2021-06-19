@@ -20,8 +20,8 @@ function Resume () {
             companyName="Root Insurance"
             role="Software Engineer 1"
             description="I have been part of the Data Science Engineering Team and the Customer Engagement team. While on the Data Science Engineering team, I came up with and created
-            an in-house software that enabled Data Scientists and Actuaries to write functional R programs locally, abstract away dockerization, and transform every program to a functional lambda component that could
-            be olugged and chugged into AWS Sagmaker processing jobs, without any involvment of Engineers. I am now a part of the Customer Engagement Team, where I use React, Ruby, Rails to work on our mobile, web, and server applications."
+            Rrocket, an in-house software that enabled Data Scientists and Actuaries to write functional R programs locally, abstract away dockerization, and transform every program to a functional lambda component that could
+            be plugged and chugged into AWS Sagmaker processing jobs, without any involvment of Engineers. I am now a part of the Customer Engagement Team, where I use React, Ruby, Rails to work on our mobile, web, and server applications."
             durationDate="02/21 - Now"
         />
 
@@ -29,7 +29,7 @@ function Resume () {
         <CardItem 
             companyName="Root Insurance"
             role="Software Engineer - Intern"
-            description="As an Intern on the Data Science Engineering team, I programmed an MVP for ETL processing using Grothedeick Construction using ECS cluster, lambdas, Aws Stepfunctions, and Terraform."
+            description="As an Intern on the Data Science Engineering team, I programmed an MVP for ETL processing using Grothendeick Construction using ECS cluster, lambdas, Aws Stepfunctions, and Terraform."
             durationDate="10/20 - 02/21"
         />
 
@@ -51,10 +51,10 @@ function Resume () {
 
         <CardItem 
             companyName="Leftover"
-            role="Full Stack+ Marketing @ www.leftover.one"
+            role="Full Stack + Marketing @ www.leftover.one"
             description="
             Used Flask, Postgres, (HTML+CSS+JS), Docker, to create a web-app to connect grcoery store surpluse for budget constrained consumers, while mitigating grocery store loss.
-            I also conduct my own market, and customer research, along with the marketing at local food banks and stores.
+            I also conduct my own market & customer research, along with the marketing at local food banks and stores.
             "
             durationDate=""
         />
