@@ -10,7 +10,7 @@ function Resume () {
         {/* PUT A SUPER CUTE COMPONENT TO GO TO EXPERIENCE,  */}
         <ResumeOptions />
 
-        <div className="resume-page" Style="padding-bottom: 60px;">
+        <div className="resume-page" id="resume-page" Style="padding-bottom: 60px;">
         
         <div className="new-section Experience">
             Experience
@@ -34,8 +34,8 @@ function Resume () {
         />
 
         <CardItem 
-            companyName="Bayer Cropsciences"
-            role="Student-Partner (Data Mine)"
+            companyName="Bayer Crop.Sci"
+            role="Student-Partner"
             description="As a student partner with Bayer Cropscience in the Data Mine Community at Purdue University, we used R to analyze crop genotype data provided by Bayer."
             durationDate="05/19 - 07/19"
         />

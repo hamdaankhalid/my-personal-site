@@ -4,7 +4,7 @@ import Home from './components/pages/Home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Resume from './components/pages/Resume';
 import Connect from './components/pages/Connect';
-import Footer from './components/Footer';
+// import Footer from './components/Footer';
 function App() {
   return (
     <div className="App">

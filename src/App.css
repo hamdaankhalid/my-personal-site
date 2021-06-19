@@ -3,11 +3,23 @@
   margin: 0;
   padding: 0;
   font-family: 'PT Sans', sans-serif;
+  
 }
 
-.home,
 .connect {
   display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-repeat: repeat-y;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+
+.home{
+  display: flex;
+  flex-direction: column;
   height: 100vh;
   align-items: center;
   justify-content: center;
@@ -27,7 +39,7 @@
   background-image: url("./images/img-3.jpg");
   background-position: center;
   background-size: fill;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   color: #fff;
   font-size: 100px;
   /* display: block; */
@@ -51,7 +63,7 @@
   justify-content: center;
   color: white;
   background-color: rgba(82, 77, 77, 0.61);
-  backdrop-filter: blur(5px);
+  backdrop-filter: blur(2px);
   background-attachment: fixed;
   font-size: 1.2rem;
 }
@@ -78,4 +90,23 @@
 
  .socials > div > a:hover {
   color: rgb(119, 79, 79);
+ }
+
+ @media screen and (max-width: 600px){
+  .socials > div {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    padding-left: 40%;
+    padding-left: 40%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+   }
+}
+
+
+
+ #aboutMe {
+  background-image: url("./images/img-3.jpg");
+  height:50%;
  }
