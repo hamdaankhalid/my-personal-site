@@ -3,7 +3,18 @@
   margin: 0;
   padding: 0;
   font-family: 'PT Sans', sans-serif;
-  
+}
+
+html{
+  overflow: auto;
+}
+
+.App{
+  overflow: auto;
+}
+
+#root{
+ overflow: auto;
 }
 
 .connect {
@@ -16,7 +27,6 @@
   font-size: 3rem;
 }
 
-
 .home{
   display: flex;
   flex-direction: column;
@@ -27,7 +37,7 @@
 }
 
 .connect {
-  background-image: url("./images/img-1.jpg");
+  background-image: url("./images/img-3.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -55,14 +65,14 @@
 }
 
 .About {
-  padding: 2%;
-  margin-bottom: 4%;
+  padding: 5%;
+  margin-bottom: 0%;
   display: flex;
   flex-wrap: wrap;
-  align-items: left;
+  align-items: center;
   justify-content: center;
-  color: white;
-  background-color: rgba(82, 77, 77, 0.61);
+  color: #242424;
+  background-color: whitesmoke;
   backdrop-filter: blur(2px);
   background-attachment: fixed;
   font-size: 1.2rem;
@@ -107,6 +117,6 @@
 
 
  #aboutMe {
-  background-image: url("./images/img-3.jpg");
-  height:50%;
+  /* background-image: url("./images/img-3.jpg"); */
+  /* height:100%; */
  }

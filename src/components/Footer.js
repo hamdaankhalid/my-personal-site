@@ -3,8 +3,8 @@ import './Footer.css'
 function Footer({ children }) {
     return (
         <div>
-            <div className="phantom" />
-            <div className="footerstyle">
+            <div className="footer" />
+            <div className="footer_contents">
                 { children }
             </div>
         </div>
