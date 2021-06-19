@@ -2,11 +2,8 @@ import './Footer.css'
 
 function Footer({ children }) {
     return (
-        <div>
-            <div className="footer" />
-            <div className="footer_contents">
+            <div className="footer">
                 { children }
-            </div>
         </div>
     )
 }

@@ -4,7 +4,7 @@ import Home from './components/pages/Home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Resume from './components/pages/Resume';
 import Connect from './components/pages/Connect';
-// import Footer from './components/Footer';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
         <Route path='/resume' exact component={Resume} />
         <Route path='/connect' exact component={Connect} />
       </Switch>
-      {/* <Footer children="Hamdaan Khalid"/> */}
+      <Footer children="Hamdaan Khalid"/>
     </Router>
 
     </div>

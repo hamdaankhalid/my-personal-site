@@ -3,14 +3,14 @@
         display: flex;
         justify-content: space-between;
         text-align: center;
-        padding: 0% 5%
+        padding: 0% 5%;
 }
 
 @media screen and (max-width: 600px){
     .btns-container {
         display: block;
         text-align: center;
-        padding: 0% 5%
+        padding: 0% 5%;
 }
 
 }
