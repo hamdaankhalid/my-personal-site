@@ -1,0 +1,8 @@
+.btns-container {
+        /* background: url("../images/img-home.jpg") center center/cover no-repeat; */
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+        padding: 0% 5%
+}
+
