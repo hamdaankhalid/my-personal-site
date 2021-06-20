@@ -8,9 +8,9 @@ function Home () {
         <div id={"aboutMe"}>
 
         <div className="MeSection">
-        <h4>
+        <h3>
         Hi <i class="fas fa-child"></i>
-        </h4>
+        </h3>
         </div>
 
         <div className="About">
@@ -24,9 +24,9 @@ function Home () {
         </div>
 
         <div className="MeSection">
-        <h4>
+        <h3>
         When I'm not Working <i class="fas fa-hat-cowboy"></i>
-        </h4>
+        </h3>
         </div>
         <div className="About">
         
