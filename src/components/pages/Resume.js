@@ -90,7 +90,8 @@ function Resume () {
             companyName="Mathematics/Statistics"
             role=""
             durationDate=""
-            description="I am proficient in the following languages as well R, Python, Matlab. My favorite classes during my B.S. in Mathemtics were Linear Algebra, Logic, Probability, Real Analysis, and Regression Modelling "
+            description="I am proficient in the following languages as well R, Python, Matlab. My favorite classes during my B.S. in Mathemtics were Linear Algebra, Logic, Probability, Real Analysis, and Regression Modelling.
+            I also actively develop applications using computer vision,Drones, and RaspeberryPi. "
         />
 
         <div className="new-section Education">
