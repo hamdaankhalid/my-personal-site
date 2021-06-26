@@ -83,15 +83,15 @@ function Resume () {
             companyName="Back-End"
             role=""
             durationDate=""
-            description="OOP, Functional Paradigm, Python, Java, Javascript, Ruby, Flask, Django, Rails, Express, NoSql Databases (DynamoDB, MongoDB), SQL Databases (Postgres, Sqlite3, mysql), Docker, AWS"
+            description="OOP, Functional Paradigm, Python, Java, Javascript, Ruby, Flask, Django, Rails, Express, NoSql Databases (DynamoDB, MongoDB), SQL Databases (Postgres, Sqlite3, mysql), Docker, AWS, Terraform, Docker."
         />
 
         <CardItem 
             companyName="Mathematics/Statistics"
             role=""
             durationDate=""
-            description="I am proficient in the following languages as well R, Python, Matlab. My favorite classes during my B.S. in Mathemtics were Linear Algebra, Logic, Probability, Real Analysis, and Regression Modelling.
-            I also actively develop applications using computer vision,Drones, and RaspeberryPi. "
+            description="I am also proficient in the following languages as well R, Python, Matlab. My favorite classes during my B.S. in Mathemtics were Linear Algebra, Logic, Probability, Real Analysis, and Regression Modelling.
+            I also enjoy drone programming, computer vision, reinforcement learning, and creating data driven applications."
         />
 
         <div className="new-section Education">
