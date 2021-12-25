@@ -81,7 +81,7 @@ function Resume () {
             companyName="Back-End"
             role=""
             durationDate=""
-            description="Object Oriented Paradigm, Functional Paradigm, Procedural Paradigm, Python, Java, Javascript, Ruby, Flask, Django, Rails, Express, NoSql Databases (DynamoDB, MongoDB), SQL Databases (Postgres, Sqlite3, mysql), Docker, AWS, Terraform, Docker."
+            description="Object Oriented Design, Python, Java, Typescript, Ruby, Flask, Django, Rails, Express, NoSql Databases (DynamoDB, MongoDB), SQL Databases (Postgres, Sqlite3, mysql), Docker, AWS, Terraform, Docker."
         />
 
         <CardItem 

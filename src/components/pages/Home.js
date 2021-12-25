@@ -30,7 +30,7 @@ function Home () {
         <div className="About">
         
         <p>
-        I like to deicate the majority of my time not spent at work to focus on constant learning and striving for technical excellence. My goal is to be an absolute unicorn engineer
+        I like to dedicate the majority of my time not spent at work to focus on constant learning and striving for technical excellence. My goal is to be an absolute unicorn engineer
         and for this I am constantly learning. My favorite books are Extreme Ownership, Clean code, and Pragmattic Programmer. I enjoy bodybuilding, basketball, and equestrian sports
         in my freetime. My favorite quote is by Marcus Aurelius, "Nothing is worth doing pointlessly." 
         </p>
