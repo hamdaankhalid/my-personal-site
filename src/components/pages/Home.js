@@ -16,10 +16,9 @@ function Home () {
         <div className="About">
         
             <p>
-            
             I'm a passionate software engineer with a background in Mathematics.I am a creative at heart and love bringing
-            crazy ideas to reality. I have a year's worth of professional experience at <a href="https://www.joinroot.com" Style="color: black;"><strong>Root Insurance</strong></a>, and almost two years of self learning, and project based experience. 
-            Click on the résumé button above to learn more about my projects, experience, and education.
+            crazy ideas to reality. I currently work at <a href="https://www.attuneinsurance.com" Style="color: light-blue;"><strong>Attune Insurance</strong></a>.
+            Click on the résumé button above to learn more about my projects, experience, and education. I highly recommend you checking out my github as well!
             </p>
         </div>
 
@@ -31,8 +30,9 @@ function Home () {
         <div className="About">
         
         <p>
-        I enjoy the outdoors and physical activites.I particularly enjoy Powerlifting, Horse Polo (Equestrian sports), Swimming, Running, Biking, and Basketball.
-        In my spare time I like to cook. When life gets too much for me, I like to go sit by the river, listen to hozier, and sip on some chai.
+        I like to deicate the majority of my time not spent at work to focus on constant learning and striving for technical excellence. My goal is to be an absolute unicorn engineer
+        and for this I am constantly learning. My favorite books are Extreme Ownership, Clean code, and Pragmattic Programmer. I enjoy bodybuilding, basketball, and equestrian sports
+        in my freetime. My favorite quote is by Marcus Aurelius, "Nothing is worth doing pointlessly." 
         </p>
         </div>
         </div>

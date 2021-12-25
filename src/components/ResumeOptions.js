@@ -8,19 +8,16 @@ function ResumeOptions() {
     
     const savePdf = () => {
         var img = new Image()
-        img.src = 'resume/HamdaanKhalidResume.png';
+        img.src = 'resume/HamdaanResume.png';
         
                 const pdf = new jsPDF('p', 'px', 'a4');
                 var width = pdf.internal.pageSize.getWidth();
                 var height = pdf.internal.pageSize.getHeight();
-                console.log("DOwnloading")
                 img.onload = function () {
-                    console.log("DOwnloading really")
+                    console.log("Downloading Resume!")
                     pdf.addImage(img, 'png', 0, 0, width, height);
                     pdf.save("HamdaanKhalidResume.pdf");
                 }
-                
-            
     };
     
 

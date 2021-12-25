@@ -17,28 +17,26 @@ function Resume () {
         </div>
 
         <CardItem 
+            companyName="Attune"
+            role="Software Engineer"
+            description="
+            Full stack software engineer at Attune, working on our node js backend and and customer facing angular frontend, I am responsible for delivery full stack feautres decided by our product team."
+            durationDate="12/01 - now"
+        />
+
+
+        <CardItem 
             companyName="Root Insurance"
             role="Software Engineer 1"
-            description="I have been part of the Data Science Engineering Team and the Customer Engagement team. While on the Data Science Engineering team, I came up with and created
-            Rrocket, an in-house software that enabled Data Scientists and Actuaries to write functional R programs locally, abstract away dockerization, and transform every program to a functional lambda component that could
-            be plugged and chugged into AWS Sagmaker processing jobs, without any involvment of Engineers. I am now a part of the Customer Engagement Team, where I use React, Ruby, Rails to work on our mobile, web, and server applications."
-            durationDate="02/21 - Now"
+            description="
+            Joined as an intern on the data science engineering team and programmed MVP for ETL processing using Grothendeick Construction with ECS cluster, lambdas, Aws Stepfunctions, and Terraform.
+            Switch to full time Engineer on our Data Science productivity team in February 2021 where I came up with and created Rrocket, an in-house software that enabled Data Scientists and Actuaries
+            to write functional R programs locally, abstract away dockerization, and transform every program to a functional lambda component that could be plugged and chugged into AWS Sagmaker processing
+            jobs, without any involvment of Engineers. On Customer Engagement Team I worked as a full stack engineer delivering customer facing features on our mobile and web applications involving backend
+            and frontend changes as needed"
+            durationDate="10/20 - 10/30"
         />
 
-        
-        <CardItem 
-            companyName="Root Insurance"
-            role="Software Engineer - Intern"
-            description="As an Intern on the Data Science Engineering team, I programmed an MVP for ETL processing using Grothendeick Construction using ECS cluster, lambdas, Aws Stepfunctions, and Terraform."
-            durationDate="10/20 - 02/21"
-        />
-
-        <CardItem 
-            companyName="Bayer Crop.Sci"
-            role="Student-Partner"
-            description="As a student partner with Bayer Cropscience in the Data Mine Community at Purdue University, we used R to analyze crop genotype data provided by Bayer."
-            durationDate="05/19 - 07/19"
-        />
         
         <CardItem 
             companyName="Real Estate Website"
@@ -83,15 +81,15 @@ function Resume () {
             companyName="Back-End"
             role=""
             durationDate=""
-            description="OOP, Functional Paradigm, Python, Java, Javascript, Ruby, Flask, Django, Rails, Express, NoSql Databases (DynamoDB, MongoDB), SQL Databases (Postgres, Sqlite3, mysql), Docker, AWS, Terraform, Docker."
+            description="Object Oriented Paradigm, Functional Paradigm, Procedural Paradigm, Python, Java, Javascript, Ruby, Flask, Django, Rails, Express, NoSql Databases (DynamoDB, MongoDB), SQL Databases (Postgres, Sqlite3, mysql), Docker, AWS, Terraform, Docker."
         />
 
         <CardItem 
             companyName="Mathematics/Statistics"
             role=""
             durationDate=""
-            description="I am also proficient in the following languages as well R, Python, Matlab. My favorite classes during my B.S. in Mathemtics were Linear Algebra, Logic, Probability, Real Analysis, and Regression Modelling.
-            I also enjoy drone programming, computer vision, reinforcement learning, and creating data driven applications."
+            description="For projects involving mathematics and statistics I like to use R, Python, and Matlab. My favorite topics in Mathemtics are Linear Algebra, Logic, Probability, Real Analysis, and Regression Modelling.
+            I program drones, computer vision projects with openCV, reinforcement learning, and creating data driven/intelligent applications."
         />
 
         <div className="new-section Education">
