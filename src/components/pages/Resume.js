@@ -21,7 +21,7 @@ function Resume () {
             role="Software Engineer"
             description="
             Full stack software engineer at Attune, working on our node js backend and and customer facing angular frontend, I am responsible for delivery full stack feautres decided by our product team."
-            durationDate="12/01 - now"
+            durationDate="11/21 - now"
         />
 
 
@@ -34,7 +34,7 @@ function Resume () {
             to write functional R programs locally, abstract away dockerization, and transform every program to a functional lambda component that could be plugged and chugged into AWS Sagmaker processing
             jobs, without any involvment of Engineers. On Customer Engagement Team I worked as a full stack engineer delivering customer facing features on our mobile and web applications involving backend
             and frontend changes as needed"
-            durationDate="10/20 - 10/30"
+            durationDate="10/20 - 11/21"
         />
 
         
@@ -74,7 +74,7 @@ function Resume () {
             companyName="Front-End"
             role=""
             durationDate=""
-            description="HTML, CSS, JS, React.js , Vue.js , React Native, Swift"
+            description="HTML, CSS, JS, React.js , Vue.js , React Native, Angular"
         />
 
         <CardItem 
